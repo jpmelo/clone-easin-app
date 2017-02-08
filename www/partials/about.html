@@ -1,0 +1,23 @@
+<ion-view id="about">
+    <ion-nav-bar class="header about" align-title="center">
+        <ion-nav-back-button class="customBackButton">
+        </ion-nav-back-button>
+        <ion-nav-title>
+            About the app
+        </ion-nav-title>
+        <ion-nav-buttons side="right">
+            <button id="customMenuButton" class="button button-icon ion-navicon customMenuButton" ng-click='changeMainMenu()'>
+            </button>
+        </ion-nav-buttons>
+    </ion-nav-bar>
+
+    <ion-content scroll="true" overflow-scroll="true" padding="false" ng-style="appCtrl.accessibilitySpecial">
+        <div class="row center aboutText" ng-style="appCtrl.accessibilitySpecial">
+            <div class="col" ng-style="appCtrl.accessibilityFont">
+                <p>Invasive alien species (IAS) can have severe effects to biodiversity, ecosystems and human activities. Be a part of the effort to confront the worst IAS in Europe! This application enables you to report IAS occurrences in your area, and thus you contribute to early detections of new invaders.</p>
+                <p>The procedure to validate and provide feedback on the observations received from the public is still under development and will become available in subsequent releases of the app.</p>
+            </div>
+        </div>
+    </ion-content>
+
+</ion-view>

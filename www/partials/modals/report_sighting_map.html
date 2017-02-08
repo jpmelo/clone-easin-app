@@ -1,0 +1,12 @@
+<ion-modal-view id="modalReportSightingMap" class="sidemenu-modal">
+    <ion-header-bar>
+        <h1 class="title">Choose a location</h1>
+        <div class="buttons">
+            <button class="button button-clear" ng-click="hideModalReportSightingMap()"><span class="ion-close-circled"> Close</span></button>
+        </div>
+    </ion-header-bar>
+    <ion-content data-tap-disabled="true" style="padding: 0 !important;" scroll="false">
+       <!-- <div id="map" style="height: 100%; width: 100%;"><span ng-if="!map2online" class="error_message">You need a network connection to use this feature</span></div> -->
+       <div id="map"><span class="error_message">{{offline}}</span></div>
+    </ion-content>
+</ion-modal-view>

@@ -1,0 +1,9 @@
+<ion-scroll zooming="false" direction="y" style="width: 100%; height: 100%">	
+	<div id="sob_information" class="padding" ng-style="appCtrl.accessibilityFont">
+		<h4>Abundance :</h4> {{SOB.properties.Abundance}}, ({{SOB.properties.Precision}})
+		<h4>Status :</h4>{{SOB.properties.Status}}
+		<h4>Date :</h4> {{SOB.createdAt | limitTo:10}} | {{SOB.createdAt | limitTo:7:12}} 
+		<h4>Update :</h4> {{SOB.updatedAt | limitTo:10}} | {{SOB.updatedAt | limitTo:7:12}}
+		<h4>Comment : </h4> {{SOB.properties.Comment}}
+	</div>
+</ion-scroll>

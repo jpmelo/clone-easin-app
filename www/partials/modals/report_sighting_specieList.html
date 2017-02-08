@@ -1,0 +1,18 @@
+<ion-modal-view id="modalReportSightingSpecieList" class="sidemenu-modal">
+    <ion-header-bar>
+        <h1 class="title">Select a specie</h1>
+        <div class="buttons">
+            <button class="button button-clear" ng-click="hideModalReportSightingSpecieList()"><span class="ion-close-circled"> Close</span></button>
+        </div>
+    </ion-header-bar>
+    <ion-content overflow-scroll='true'>
+       <div class="row" ng-repeat="specieT in ::species | orderBy: 'common_name'" ng-click="changeSpecie(specieT); hideModalReportSightingSpecieList()">
+            <div class='specie-picture'>
+                <img ng-src="data/thumbnails/{{specieT.photos[0].src}}" alt="{{specieT.common_name}}" />
+            </div>
+            <div class='specie-name'>
+                {{specieT.common_name}}<br/><span>{{specieT.scientific_name}}</span>
+            </div>
+        </div>
+    </ion-content>
+</ion-modal-view>

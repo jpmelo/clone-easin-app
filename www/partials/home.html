@@ -1,0 +1,52 @@
+<ion-view id="home">
+    <ion-nav-bar class="header home" align-title="left">
+        <!-- <ion-nav-back-button class="customBackButton"> -->
+        <!-- </ion-nav-back-button> -->
+         <ion-nav-title>
+            <!-- Europe Invasive Species -->
+            <!-- Invasive Alien Species in Europe -->
+            Invasive Alien Species in Europe
+        </ion-nav-title>
+        <ion-nav-buttons side="right">
+            <button id="customMenuButton" class="button button-icon ion-navicon customMenuButton" ng-click='changeMainMenu()'>
+            </button>
+        </ion-nav-buttons>
+    </ion-nav-bar>
+
+    <ion-content class="padding" scroll="true" overflow-scroll='true'>
+        <section class="home-container">
+            <div class="row">
+                <div class="col-50 text-center">
+                    <a ui-sref="app.specieList"><img src="img/main_menu_logo_invasive_species.svg" class="main-menu__button"></a>
+                </div>
+                <div class="col-50 text-center">
+                    <a ui-sref="app.my_records"><img src="img/main_menu_logo_species_records.svg" class="main-menu__button"></a>
+                </div>
+           <!--  </div>
+            <div class="row"> -->
+                <div class="col-50 text-center">
+                     <a ui-sref="app.reportSighting({id: -1})"><img src="img/main_menu_logo_report_sighting.svg" class="main-menu__button"></a>
+                </div>
+                <div class="col-50 text-center">
+                    <a ui-sref="app.links"><img src="img/main_menu_logo_links.svg" class="main-menu__button"></a>
+                </div>
+           <!--  </div>
+            <div class="row"> -->
+                <div class="col-50 text-center">
+                    <a ui-sref="app.login"><img src="img/main_menu_logo_login.svg" class="main-menu__button"></a>
+                </div>
+                <div class="col-50 text-center">
+                    <a ui-sref="app.contact"><img src="img/main_menu_logo_contact.svg" class="main-menu__button"></a>
+                </div>
+           <!--  </div>
+            <div class="row">
+ -->            <div class="col-50 text-center">
+                    <a ui-sref="app.about"><img src="img/main_menu_logo_about.svg" class="main-menu__button"></a>
+                </div>
+                <div class="col-50 text-center">
+                    <a ui-sref="app.sightingMap"><img src="img/main_menu_logo_map.svg" class="main-menu__button"></a>
+                </div>
+            </div>
+        </section>
+    </ion-content>
+</ion-view>

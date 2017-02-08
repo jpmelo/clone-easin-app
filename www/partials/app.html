@@ -1,0 +1,12 @@
+<div id="mainMenu" ng-show="mainMenu === true" click-outside="mainMenu = false" outside-if-not="customMenuButton">
+	<ul>
+		<li ng-click="showModalAcknowledgement()">Acknowledgement</li>
+		<li ng-click="showModalDisclaimer()">Disclaimer</li>
+		<li ng-click="showModalLegalNotice()">Legal notice</li>
+		<li ng-click="showModalPrivacy()">Privacy statement</li>
+		<li ng-click="showModalRegulation()">EU IAS Regulation</li>
+	</ul>
+</div>
+
+<ion-nav-view name="mainContent">
+</ion-nav-view>

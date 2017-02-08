@@ -1,0 +1,33 @@
+<ion-modal-view id="changePwdModal" class="customModal">
+    <ion-header-bar>
+        <h1 class="title">Change your password</h1>
+        <div class="buttons">
+            <button class="button button-clear" ng-click="closeChangePwdModal()"><span class="ion-close-circled"> Close</span></button>
+        </div>
+    </ion-header-bar>
+    <ion-content>
+        <form name="changePwdForm" novalidate ng-style="appCtrl.accessibilityFont">
+            <div class="list">
+                <label class="item item-input item-floating-label">
+                    <span class="input-label">Email</span>
+                    <input type="email" placeholder="Email" ng-model="changePwdForm.email" required>
+                </label>
+                <label class="item item-input item-floating-label">
+                    <span class="input-label">Old password</span>
+                    <input type="password" placeholder="Old password" ng-model="changePwdForm.oldpassword" required>
+                </label>
+                <label class="item item-input item-floating-label">
+                    <span class="input-label">New password</span>
+                    <input type="password" placeholder="New password" ng-model="changePwdForm.newpassword" ng-class="{'error': changePwdForm.newpassword != changePwdForm.confirmpassword}" required>
+                </label>
+                <label class="item item-input item-floating-label">
+                    <span class="input-label">Confirm password</span>
+                    <input type="password" placeholder="Confirm password" ng-model="changePwdForm.confirmpassword" ng-class="{'error': changePwdForm.newpassword != changePwdForm.confirmpassword}" required>
+                </label>
+            </div>
+            <button class="button button-block button-balanced" ng-disabled="changePwdForm.$invalid || changePwdForm.newpassword != changePwdForm.confirmpassword" ng-click='changePassword(changePwdForm)'>
+              Submit
+            </button>
+        </form>
+    </ion-content>
+</ion-modal-view>

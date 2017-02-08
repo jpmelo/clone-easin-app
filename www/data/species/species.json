@@ -1,0 +1,234 @@
+{
+	"species":[
+		{	
+			"LSID": "urn:lsid:alien.jrc.ec.europa.eu:species:R13698:4.7",
+			"scientific_name": "Sciurus carolinensis",
+			"common_name": "Gray squirrel",
+			"type": "Animalia",
+			"family": "Mammalia",
+			"appearance": ["medium-sized tree squirrel up to 50 cm long including tail", "back grizzled dark to pale grey", "hips, feet and head olive brown", "tail white to pale grey"],
+			"confusion": ["none"],
+			"habitat": ["broadleaf woodlands and conifer forests", "urban parks", "Europe so far: UK, Ireland, Italy"],
+			"behavior": ["spends most of its time on the ground", "feeds on nuts, flowers, buds, fruits, fungi, some insects and bird eggs", "pilfers the caches of red squirrels"],
+			"invasion": ["native in the USA", "introduced as a pet", "can damage trees by stripping the bark, exposing them to fungi and insects", "may cause local extinction of the red squirrel through competition and diseases"],
+			"further_information": ["http://www.cabi.org/isc/datasheet/49075", "http://www.europe-aliens.org/pdf/Sciurus_carolinensis.pdf", "http://www.issg.org/database/species/ecology.asp?si=65&fr=1&sts=&lang=EN"],
+			"photos": [
+				{"src": "gray_squirrel_01.jpg", "author": "Photo by GBNNSS © Crown Copyright 2009"}, 
+				{"src": "gray_squirrel_02.jpg", "author": "Photo by GBNNSS © Crown Copyright 2009"}
+			],	
+			"distribution": [],
+			"report": []
+		},
+		{
+			"LSID": "urn:lsid:alien.jrc.ec.europa.eu:species:R08062:4.7",
+			"scientific_name": "Lagarosiphon major",
+			"common_name": "African elodea",
+			"type": "Plantae",
+			"family": "Tracheophyta",
+			"appearance": ["submerged aquatic plant ", "roots attach on the bottom ", "stem brittle, sparsely branched, up to 6 m long", "leaves dark green, alternately/spirally placed around the stem, often crowded towards the apex", "female flower very small, with three white/pink petals"],
+			"confusion": ["similarity with Egeria densa, Elodea canadensis and Hydrilla verticillata", "its leaves are curved at their tips and are distinguishably alternately/spirally placed around the stem"],
+			"habitat": ["lakes, slow moving rivers, wetlands, riparian zones, canals and drainage ditches", "prefers cool waters in areas sheltered from wind and current", "Grows best under high light intensity", "Europe so far: many countries of Central Europe"],
+			"behavior": ["can grow in dense mats up to 2-3 m thick", "only the female plant is known to occur outside of its native range", "all reproduction in its introduced range is done in the form of a vegetative propagation"],
+			"invasion": ["native to South Tropical Africa", "introduced through aquarium and water garden trade", "can cause negative environmental and economic impacts (displacing native plant species, decreasing water quality, blocking hydroelectric intakes, impeding recreational activities and diminishing aesthetic value)"],
+			"further_information": ["http://www.cabi.org/isc/datasheet/30548"],
+			"photos": [
+				{"src": "african_elodea_01.jpg", "author": "Photo by RPS group Plc"}, 
+				{"src": "african_elodea_02.jpg", "author": "Photo by RPS group Plc"}
+			],			
+			"distribution": [],
+			"report": []
+		},
+		{
+			"LSID": "urn:lsid:alien.jrc.ec.europa.eu:species:R05836:4.7",
+			"scientific_name": "Eriocheir sinensis",
+			"common_name": "Chinese mitten crab",
+			"type": "Animalia",
+			"family": "Arthropoda",
+			"appearance": ["rather small crab, up to 8 cm in width", "brownish to greenish", "characterized by a \"fur\" of dense mat of hairs on its claws", "carapace subquadrate, markedly convex, with four acute spines on either side"],
+			"confusion": ["easily distinguishable by its “fur” on its claws"],
+			"habitat": ["shallow waters of rivers, lakes and estuaries", "coastal marine areas", "Europe so far: in most Western and Northern countries"],
+			"behavior": ["omnivorous non-discriminatory predator", "feeds on various plants, invertebrates and small fish", "active migration: larvae occur in marine coastal waters and juveniles migrate upstream and adults migrate downstream to the sea for reproduction"],
+			"invasion": ["native in the Far East", "introduced through the shipping and aquarium trade", "can outcompete native species through predation and overlapping dietary", "its burrowing activity can lead to the erosion of river banks", "can damage fishing gear", "intermediate host of lung flukes in East Asia"],
+			"further_information": ["http://www.cabi.org/isc/datasheet/84120", "http://www.europe-aliens.org/pdf/Eriocheir_sinensis.pdf", "http://www.ciesm.org/atlas/Eriocheirsinensis.php"],
+			"photos": [
+				{"src": "chinese_mitten_crab_01.jpg", "author": "Photo by the Food and Environmental Research Agency (FERA), © Crown Copyright 2009"}, 
+				{"src": "chinese_mitten_crab_02.jpg", "author": "Photo by Marco Faasse"}
+			],			
+			"distribution": [],
+			"report": []
+		},
+		{
+			"LSID": "urn:lsid:alien.jrc.ec.europa.eu:species:R07537:4.7",
+			"scientific_name": "Hydrocotyle ranunculoides",
+			"common_name": "Floating pennywort",
+			"type": "Plantae",
+			"family": "Tracheophyta",
+			"appearance": ["aquatic stoloniferous plant, floating on water","stems horizontal, bear nodes at rather regular intervals","dense mats of roots at each node as well as elongated erected stalks ","leaves kidney-shaped of various sizes (2-15 cm)","flowers small, 3 mm in diameter, whitish to yellowish, borne in small clusters of 5-13","fruits brownish, ovoid-ellipsoid, strongly flattened dorsally"],
+			"confusion": ["similar with other species of the genus", "can be distinguished by its leaf margin which is split to central petiole, and by its overlapping marginal lobes"],
+			"habitat": ["stagnant and slowly running water of rivers, streams, ponds, lakes and ditches", "Europe so far: UK, France, Germany, Italy"],
+			"behavior": ["a fast growing species", "forms extensive floating mats on the water surface", "thrives under highly eutrophic conditions", "prefers sun exposure and can resist to European winters, since its submerged parts can persist under ice cover"],
+			"invasion": ["native to North and South America", "introduced in Europe through ornamental and aquarium trade", "can outcompete native aquatic plants", "blocks water control structures and can lead to flooding events", "can create problems to boat navigation and water recreational uses"],
+			"photos": [
+				{"src": "floating_pennywort_01.jpg", "author": "Photo by GBNNSS  © Crown Copyright 2009"}, 
+				{"src": "floating_pennywort_02.jpg", "author": "Photo by CCW  © Crown Copyright 2009"}
+			],	
+			"further_information": ["http://www.cabi.org/isc/datasheet/28068", "https://www.nobanis.org/globalassets/speciesinfo/h/hydrocotyle-ranunculoides/hydrocotyle_ranunculoides.pdf"],
+			"distribution": [],
+			"report": []
+		},
+		{
+			"LSID": "urn:lsid:alien.jrc.ec.europa.eu:species:R08679:4.7",
+			"scientific_name": "Lithobates catesbeianus",
+			"common_name": "American bullfrog",
+			"type": "Animalia",
+			"family": "Amphibia",
+			"appearance": ["one of the largest frog species, reaching 18 cm long and 0.5 kg in weight", "olive to brownish with random dark spots on dorsal and lateral body parts, while abdominal side white", "head flat with conspicuous eardrums", "skin smooth ", "limbs with inter-digital swimming webs"],
+			"confusion": ["adult specimens very distinct but juvenile bullfrogs can easily be mistaken for other species"],
+			"habitat": ["lakes, ponds, marshes and generally in shallow still water", "prefers abundant aquatic vegetation" , "Europe so far: in many Western and Southern countries"],
+			"behavior": ["during metamorphosis it converts from vegetarian tadpole to carnivore that can eat any animal, even juveniles of its own species", "hibernates to withstand below-freezing temperatures", "only the adult males produce the frog call"],
+			"invasion": ["native to Eastern North America ", "intentional introduction for cultivation and human consumption", "can outcompete native amphibians", "the chorusing of large males sometimes considered as noise pollution", "reports of severe allergic reactions in some people who ingested bullfrogs"],
+			"photos": [
+				{"src": "american_bullfrog_01.jpg", "author": "Photo by GBNNSS © Crown Copyright 2009"}, 
+				{"src": "american_bullfrog_02.jpg", "author": "Photo by Riccardo Scalera"}
+			],	
+			"further_information": ["http://www.cabi.org/isc/datasheet/66618","http://www.europe-aliens.org/pdf/Lithobates_catesbeianus.pdf", "http://www.issg.org/database/species/ecology.asp?si=80&fr=1&sts=&lang=EN"],
+			"distribution": [],
+			"report": []
+		},
+		{
+			"LSID": "urn:lsid:alien.jrc.ec.europa.eu:species:R08915:4.7",
+			"scientific_name": "Lysichiton americanus",
+			"common_name": "American skunk-cabbage",
+			"type": "Plantae",
+			"family": "Tracheophyta",
+			"appearance": ["tall herb reaching 1.5 m high", "basal rosette of leathery green leaves up to 1 m long ", "flowers yellow, spathulate, up to 0.5 m long, enclosing one fleshy spadix", "fruits are green berries at the end of the spadix"],
+			"confusion": ["distinguishable by its bright yellow flowers"],
+			"habitat": ["wet woodlands ", "grows best in nutrient rich soils", "Europe so far: Northern and Central countries"],
+			"behavior": ["perennial plant" , "flowering during spring", "flowers attract insects (mainly flies) due to the strong smell that is emitted"],
+			"invasion": ["native in Western North America", "introduced in Europe through horticulture", "can outcompete native mosses and orchid species"],
+			"photos": [
+				{"src": "american_skunk_cabbage_01.jpg", "author": "Photo by GBNNSS © Crown Copyright 2009"}
+			],	
+			"further_information": ["http://www.nonnativespecies.org/factsheet/downloadFactsheet.cfm?speciesId=2110", "http://www.cabi.org/isc/datasheet/31580"],
+			"distribution": [],
+			"report": []
+		},
+		{
+			"LSID": "urn:lsid:alien.jrc.ec.europa.eu:species:R10652:4.7",
+			"scientific_name": "Oxyura jamaicensis",
+			"common_name": "Ruddy duck",
+			"type": "Animalia",
+			"family": "Aves",
+			"appearance": ["small diving duck, up to 45 cm long and 700 g in weight", "long (sometimes erect) tail", "males with a bright blue bill, black head, white cheeks and a reddish body ", "females with brownish body, darker bill and a brown line along the cheeks"],
+			"confusion": ["none"],
+			"habitat": ["shallow pools, marshes and lakes", "sometimes in sheltered coastal areas", "prefers dense aquatic vegetation", "Europe so far: in Western and Northern countries"],
+			"behavior": ["excellent divers", "omnivorous, feeding on small invertebrates, seeds and parts of aquatic plants", "nests are floating structures made of marsh plants ", "seasonal dispersal in resident UK populations "],
+			"invasion": ["native in North and Central America", "introduced in Europe by escapes and accidental releases from breeding farms ", "poses a threat to the endangered white-headed duck (Oxyura leucocephala) through hybridisation and competition"],
+			"photos": [
+				{"src": "ruddy_duck_01.jpg", "author": "Photo by GBNNSS © Crown Copyright 2009"},
+				{"src": "ruddy_duck_02.jpg", "author": "Photo by GBNNSS © Crown Copyright 2009"}
+			],	
+			"further_information": ["http://www.europe-aliens.org/pdf/Oxyura_jamaicensis.pdf", "http://www.cabi.org/isc/datasheet/71368", "http://animaldiversity.org/accounts/Oxyura_jamaicensis/"],
+			"distribution": [],
+			"report": []
+		},
+		{
+			"LSID": "urn:lsid:alien.jrc.ec.europa.eu:species:R12260:4.7",
+			"scientific_name": "Procyon lotor",
+			"common_name": "Raccoon",
+			"type": "Animalia",
+			"family": "Mammalia",
+			"appearance": ["medium-sized mammal with characteristic black mask", "fur grey, but occasionally blackish or reddish, it turns whitish on the flanks and legs", "limbs rather short", "tail bushy with 4-7 blackish rings"],
+			"confusion": ["similar to Nyctereutes procyonoides, but the latter has 4-toed footprint (5-toed in raccoon) and does not have a ringed tail"],
+			"habitat": ["almost all terrestrial habitats, but especially those adjacent to water", "occasionally in urbanised areas", "Europe so far: in Central and Western countries"],
+			"behavior": ["mostly nocturnal", "omnivore, its diet can be very diverse", "excellent climbing and swimming abilities", "can survive harsh winters by entering a dormant period", "females remain in their natal area"],
+			"invasion": ["native in Central and North America", "introduced in Europe through intentional (for hunting and fur) and accidental introductions", "common in the pet trade", "capability of adjusting to a wide range of habitats and climatic conditions", "can damage native fauna through predation and competition", "susceptible to a number of diseases, such as roundworms, which can have public health consequences"],
+			"photos": [
+				{"src": "raccoon_01.jpg", "author": "Photo by Sugoto Roy"}
+			],	
+			"further_information": ["https://www.nobanis.org/globalassets/speciesinfo/p/procyon-lotor/procyon_lotor.pdf", "http://www.europe-aliens.org/pdf/Procyon_lotor.pdf", "http://www.cabi.org/isc/datasheet/67856"],
+			"distribution": [],
+			"report": []
+		},
+		{
+			"LSID": "urn:lsid:alien.jrc.ec.europa.eu:species:R18154:4.7",
+			"scientific_name": "Trachemys scripta",
+			"common_name": "Red-eared slider",
+			"type": "Animalia",
+			"family": "Reptila",
+			"appearance": ["medium to large freshwater turtle, up to 40 cm long", "prominent yellow to red patches on each side of the head", "carapace and skin are olive brown with yellow stripes and spots", "males are usually smaller than females and have a long, thick tail"],
+			"confusion": ["none"],
+			"habitat": ["Various freshwater habitats with quiet waters and soft bottoms", "prefers dense aquatic vegetation ", "frequently found in public ponds", "Europe so far: mostly Southern countries"],
+			"behavior": ["an opportunistic omnivore", "can live up to 20 years in the wild and 40 years in captivity", "reproduction and mating may occur in spring and fall"],
+			"invasion": ["native in Eastern USA and adjacent areas", "introduced in Europe through pet and food trade", "Very popular as a pet because of its small size and low price", "can outcompete native animals, including the endangered European pond turtle Emys orbicularis", "considered as a potential vector of Salmonella", "large individuals can inflict painful bites to humans "],
+			"photos": [
+				{"src": "red-eared_slide_01.jpg", "author": "Photo by GBNNSS © Crown Copyright 2009"},
+				{"src": "red-eared_slide_02.jpg", "author": "Photo by Riccardo Scalera"}
+			],	
+			"further_information": ["http://www.europe-aliens.org/pdf/Trachemys_scripta.pdf", "http://www.issg.org/database/species/ecology.asp?si=71&fr=1&sts=&lang=EN", "http://www.cabi.org/isc/datasheet/61560"],
+			"distribution": [],
+			"report": []
+		},
+		{
+			"LSID": "urn:lsid:alien.jrc.ec.europa.eu:species:R01830:4.8",
+			"scientific_name": "Raccharis halimifolia",
+			"common_name": "Groundsel bush",
+			"type": "Plantae",
+			"family": "Tracheophyta",
+			"appearance": ["a large fall-flowering shrub, reaching 5 m high", "densely branched", "leaves deciduous, simple, oval to elliptic, alternately located, usually with marginal teeth", "flowers whitish, narrowly tubular, borne in numerous small crowded apical clusters", "fruit is one-seeded, cylindrical and subtended by white hairs called 'pappus'"],
+			"confusion": ["sometimes confused with the bigleaf marsh-elder (Iva frutescens)" ,"can be distinguished by its alternate leaves (opposite in the bigleaf marsh-elder)."],
+			"habitat": ["wetlands and estuaries", "ditches and roadsides" ,"Europe so far: in most Western countries."],
+			"behavior": ["a fast-growing plant", "tolerant to shade and resistant to salt spray", "flowering usually in early autumn", "seed production very prolific with a thousand seeds produced", "seeds easily dispersed by wind and water."],
+			"invasion": ["native to North America", "introduced into Western Europe as ornamental plant", "can rapidly colonise new areas and outcompete native saltmarsh species for water and nutrients", "seeds are toxic to livestock and humans", "airborne pollen is thought to be a potential allergen."],
+			"photos": [
+				{"src": "groundsel_bush_01.jpg", "author": "© Jane Shelby"}
+			],	
+			"further_information": ["http://www.cabi.org/isc/datasheet/8164", "https://en.wikipedia.org/wiki/Baccharis_halimifolia", "http://www.eppo.int/QUARANTINE/Pest_Risk_Analysis/PRAdocs_plants/13-18359_PRA_record_Baccharis_halimifolia.pdf"],
+			"distribution": [],
+			"report": []
+		},
+		{
+			"LSID": "urn:lsid:alien.jrc.ec.europa.eu:species:R02573:4.8",
+			"scientific_name": "Callosciurus erythraeus",
+			"common_name": "Pallas’s squirrel",
+			"type": "Animalia",
+			"family": "Mammalia",
+			"appearance": ["medium-sized tree squirrel, up to 50 cm long (including the tail)", "usually brownish on the upper body, reddish on the belly, often some black on the tail", "coloration can vary depending on geography."],
+			"confusion": ["distinction from other squirrels can be difficult", "can be distinguished by the absence of black and buff stripes along the flanks."],
+			"habitat": ["broadleaved and conifer forests", "city parks", "Europe so far: France, Belgium, Italy, Netherlands."],
+			"behavior": ["herbivorous species, consumes leaves, flowers, fruits and seeds", "commonly found in tree hollows", "constructs leaf nests above the ground", "young individuals disperse from their natal areas and establish their own home ranges."],
+			"invasion": ["native to Southeast Asia", "introduced in other areas as a pet", "can cause severe debarking of trees", "can outcompete native squirrels for food and nest sites."],
+			"photos": [
+				{"src": "pallas_s_squirrel_01.jpg", "author": "© David Blank"}
+			],	
+			"further_information": ["http://www.cabi.org/isc/datasheet/91200", "https://en.wikipedia.org/wiki/Pallas%27s_squirrel"],
+			"distribution": [],
+			"report": []
+		},
+		{
+			"LSID": "urn:lsid:alien.jrc.ec.europa.eu:species:R12644:4.8",
+			"scientific_name": "pueraria lobata",
+			"common_name": "Kudzu",
+			"type": "Plantae",
+			"family": "Tracheophyta",
+			"appearance": ["stoloniferous and climbing perennial semi-woody vine", "its large and dense roots can comprise about the half of the plant’s biomass", "stems reach up to 30 m long", "leaves alternate with three leaflets, pale green to greyish, usually slightly lobed", "flowers purple to reddish, pea-like, commonly occurring in pairs", "seed pods brown, up to 7 cm long, rather flat, hairy, bearing 3-10 seeds."],
+			"confusion": ["none"],
+			"habitat": ["forests, agricultural areas, grasslands and riparian zones", "urban areas (roads, telephone poles and abandoned buildings)", "Europe so far: Italy, Switzerland."],
+			"behavior": ["growth can be very rapid", "can attach and climb most surfaces", "seeds are dispersed by wind, animals and water", "its large roots act as water reservoirs, permitting the plant to withstand drought", "symbiotic relationship with nitrogen-fixing bacteria."],
+			"invasion": ["native to Southeast Asia", "introduced through intentional and accidental releases", "kills mostly all plants that it overgrows", "a significant pest, reduces native species’ biodiversity and completely modifies the ecosystem", "can cover and smother orchard and plantation crops causing economic damages."],
+			"photos": [
+				{"src": "kudzu_01.jpg", "author": "© Jane Shelby"}
+			],	
+			"further_information": ["http://www.issg.org/database/species/ecology.asp?si=81&fr=1&sts=&lang=EN", "http://www.cabi.org/isc/datasheet/45903", "https://en.wikipedia.org/wiki/Pueraria_montana"],
+			"distribution": [],
+			"report": []
+		}
+	]
+}
+
+
+
+
+
+
+

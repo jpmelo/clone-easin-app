@@ -1,0 +1,60 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.ionicframework.mygeoss2136424"
+        },
+        "cordova-plugin-datepicker": {
+            "PACKAGE_NAME": "com.ionicframework.mygeoss2136424"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.ionicframework.mygeoss2136424"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "com.ionicframework.mygeoss2136424"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.ionicframework.mygeoss2136424"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.ionicframework.mygeoss2136424"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.ionicframework.mygeoss2136424"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.ionicframework.mygeoss2136424"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.ionicframework.mygeoss2136424"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "demo.intrasoft.mygeossias"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "demo.intrasoft.mygeossias"
+        },
+        "cordova-plugin-filepath": {
+            "PACKAGE_NAME": "demo.intrasoft.mygeossias"
+        },
+        "cordova-plugin-image-picker": {
+            "PACKAGE_NAME": "demo.intrasoft.mygeossias"
+        },
+        "ionic-plugin-keyboard": {
+            "PACKAGE_NAME": "demo.intrasoft.mygeossias"
+        },
+        "cordova-sqlite-storage": {
+            "PACKAGE_NAME": "com.intrasoft.mygeossias"
+        },
+        "phonegap-plugin-mobile-accessibility": {
+            "PACKAGE_NAME": "demo.intrasoft.mygeossias"
+        }
+    },
+    "dependent_plugins": {}
+}
