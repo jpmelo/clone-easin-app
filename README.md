@@ -3,23 +3,32 @@ Invasive Alien Species in Europe app aims to enable the general public (amateurs
 
 ## Documentation
 Programmer's Manual: http://digitalearthlab.jrc.ec.europa.eu/sites/default/files/ias_programmersmanual.pdf
+
 Software Architecture Document: http://digitalearthlab.jrc.ec.europa.eu/sites/default/files/ias_softwarearchitecturedocumentation.pdf
 
 ## Libraries
 Cordova (Hooks/Sqlite Storage)        ASF License 2.0 (compatible with GNU GPL v3)	https://www.apache.org/licenses/LICENSE-2.0
+
 Phonegap Mobile Accessibility         ASF License 2.0 (compatible with GNU GPL v3)	https://www.apache.org/licenses/LICENSE-2.0
+
 Sqlite Connector                      Public Domain					https://en.wikipedia.org/wiki/Public_domain
+
 Angular                               MIT License					https://opensource.org/licenses/MIT
+
 Ionic                                 MIT License					https://opensource.org/licenses/MIT
+
 Leaflet                               BSD-2-License / FreeBSD				https://tldrlegal.com/license/bsd-2-clause-license-(freebsd)
+
 OpenLayers                            BSD-2-License / FreeBSD				https://tldrlegal.com/license/bsd-2-clause-license-(freebsd)
 
 # App Stores
 Google Play Store: https://play.google.com/store/apps/details?id=eu.europa.publications.mygeossias
+
 iTunes Store: https://itunes.apple.com/it/app/invasive-alien-species-in/id1117811993
 
 # Contact
 European Alien Species Information Network - EASIN, https://easin.jrc.ec.europa.eu/
+
 MYGEOSS - Applications for Your Environment, http://digitalearthlab.jrc.ec.europa.eu/activities/mygeoss-applications-your-environment/57752
 
 # Funding
